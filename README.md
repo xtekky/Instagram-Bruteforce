@@ -1,2 +1,1 @@
-# Instagram-Bruteforce
-Instagram bruteforce Tool 
+star it and I'll release it yk
