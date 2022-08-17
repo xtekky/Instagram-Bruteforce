@@ -1,1 +1,1 @@
-star it and I'll release it yk
+first time using async, lmk if I am doing anything wrong
